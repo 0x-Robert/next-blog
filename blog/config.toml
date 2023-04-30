@@ -1,0 +1,4 @@
+baseURL = 'https://nextblock.github.io/'
+languageCode = 'en-us'
+title = 'Next-Block'
+theme='hugo-PaperMod'
